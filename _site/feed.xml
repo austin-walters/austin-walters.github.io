@@ -1,4 +1,109 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-07-15T14:47:34-06:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2024/07/15/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2024-07-15T14:28:54-06:00</published><updated>2024-07-15T14:28:54-06:00</updated><id>http://localhost:4000/jekyll/update/2024/07/15/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2024/07/15/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-10-18T12:43:01-06:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Austin C. Walters</title><subtitle>Welcome to Austin Walters&apos; portfolio and blog! Here, you&apos;ll find everything from my professional experience in software development to personal projects and areas of interest. Thanks for stopping by to explore my engineering journey and other arbitrary interests. Based in Salt Lake City, UT.</subtitle><entry><title type="html">Austin Walters</title><link href="http://localhost:4000/austin-walters-developer/" rel="alternate" type="text/html" title="Austin Walters" /><published>2024-10-15T14:28:54-06:00</published><updated>2024-10-15T14:28:54-06:00</updated><id>http://localhost:4000/resume</id><content type="html" xml:base="http://localhost:4000/austin-walters-developer/"><![CDATA[<p><strong>Austin Walters</strong><br />
+Salt Lake City, UT · <a href="mailto:waltersaustinc@gmail.com">WaltersAustinC@gmail.com</a> · <a href="https://www.linkedin.com/in/austin-walters-a020a6ba">LinkedIn</a> · 443.791.8144</p>
+
+<p><strong>Work Experience</strong></p>
+
+<hr />
+
+<p><strong>Affinaquest</strong> Remote</p>
+
+<p>Software Engineer I Jan 2022 - June 2024</p>
+
+<ul>
+  <li>
+    <p>Developed and maintained Apache Airflow Directed Acyclic Graphs (DAGs) to optimize data processing times, resulting in reduced server loads.</p>
+  </li>
+  <li>
+    <p>Implemented alerts for DAG failures at the task level using Airflow’s built-in OpsGenie hook, amending failure alerts to auto-close upon successful retry.</p>
+  </li>
+  <li>
+    <p>Contributed to the development of internal endpoints using C# and .NET Core to facilitate the migration of SAML users to Azure Active Directory (AAD) users.</p>
+  </li>
+  <li>
+    <p>Enhanced code quality by writing Python and C# unit tests for legacy repositories, increasing code coverage from under 20% to over 80%.</p>
+  </li>
+  <li>
+    <p>Addressed security vulnerabilities in both current and legacy codebases as identified by SonarQube, resolving all critical alerts and most major and minor alerts.</p>
+  </li>
+  <li>
+    <p>Regularly participated in code reviews and agile ceremonies to foster team collaboration, improve code quality, and maintain alignment with project goals.</p>
+  </li>
+</ul>
+
+<p><strong>SSB Info</strong> Reston, VA<br />
+ IT Developer Sep 2019 - Dec 2022</p>
+
+<ul>
+  <li>
+    <p>Developed internal Python CLI tool for processing and manipulating CSV and XML files, streamlining data management tasks and enhancing efficiency.</p>
+  </li>
+  <li>
+    <p>Enhanced existing Django API endpoints by creating interactive Swagger documentation and implementing detailed logging for improved debugging.</p>
+  </li>
+  <li>
+    <p>Provided guidance to clients’ developers on utilizing API endpoints for integrating and managing data from CRMs such as Blackbaud, Salesforce, and Ellucian.</p>
+  </li>
+  <li>
+    <p>Authored comprehensive documentation on product support and implementation requirements, facilitating better understanding and usage.</p>
+  </li>
+  <li>
+    <p>Advised the sales team on potential implementation challenges and addressed client questions to ensure smooth project execution.</p>
+  </li>
+</ul>
+
+<p><strong>HEPdata</strong> Leesburg, VA<br />
+ Software Developer Dec 2016 - Sep 2019</p>
+
+<ul>
+  <li>
+    <p>Developed and optimized SQL queries to meet client requirements, enhancing the completeness and accuracy of the returned data.</p>
+  </li>
+  <li>
+    <p>Collaborated with a third-party firm to design and implement a new Django RESTful API, replacing an outdated Grails application and improving system functionality.</p>
+  </li>
+  <li>
+    <p>Updated CSS and Bootstrap on custom web pages to support new product sales and accommodate client-specific requests, enhancing user experience and visual appeal.</p>
+  </li>
+  <li>
+    <p>Implemented DKIM domain authentication using Twilio SendGrid to provide secure and authenticated automated email communications for clients.</p>
+  </li>
+  <li>
+    <p>Managed DNS record renewal, maintaining domain functionality and uptime.</p>
+  </li>
+  <li>
+    <p>Configured and monitored automated weekly reports for production cloud servers and load balancers using Rackspace tools, ensuring operational reliability.</p>
+  </li>
+</ul>
+
+<p><strong>Technical Skills</strong></p>
+
+<hr />
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>**Proficient:** Python, SQL &amp; Snowflake, Airflow, Django, HTML, CSS, JSON/XML, C\#, Java, Azure Suite
+**Familiar:** .NET, MariaDB, JavaScript, React, Ruby, Grails, IT systems and infrastructure
+</code></pre></div></div>
+
+<p><strong>Education</strong></p>
+
+<hr />
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>**Mount St. Mary’s University**								Emmitsburg, MD
+</code></pre></div></div>
+
+<p>Bachelor of Science in Computer Science, Minor in Cyber Security Sep 2013 - May 2017</p>
+
+<p><strong>Accolades</strong></p>
+
+<hr />
+
+<ul>
+  <li>
+    <p>Student Advisory Board, Resident Assistant, Dean’s List MSMU</p>
+  </li>
+  <li>
+    <p>Eagle Scout Troop 706</p>
+  </li>
+</ul>]]></content><author><name></name></author><category term="Resume" /><summary type="html"><![CDATA[Austin Walters Salt Lake City, UT · WaltersAustinC@gmail.com · LinkedIn · 443.791.8144]]></summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2024/09/15/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2024-09-15T14:28:54-06:00</published><updated>2024-09-15T14:28:54-06:00</updated><id>http://localhost:4000/jekyll/update/2024/09/15/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2024/09/15/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
 
 <p>Jekyll requires blog post files to be named according to the following format:</p>
 
@@ -9,7 +114,7 @@
 <p>Jekyll also offers powerful support for code snippets:</p>
 
 <figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
-  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
+<span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
 <span class="k">end</span>
 <span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
 <span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
